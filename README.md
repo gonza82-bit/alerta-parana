@@ -1,4 +1,4 @@
-# 🌊 Alerta temprana de crecidas del río Paraná en Rosario
+# Alerta temprana de crecidas del río Paraná en Rosario
 
 App web que usa un árbol de clasificación para estimar, con 7 días de anticipación, si el río Paraná en Rosario estará en nivel **Normal**, **Alerta** o **Evacuación** (umbrales oficiales del INA: 5,00 m y 5,25 m).
 
