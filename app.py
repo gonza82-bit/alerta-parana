@@ -174,7 +174,7 @@ def camino_de_reglas(arbol: DecisionTreeClassifier, fila: pd.DataFrame, variable
 # --------------------------------------------------------------------------
 # 5. Interfaz
 # --------------------------------------------------------------------------
-st.title("🌊 Alerta temprana de crecidas del río Paraná en Rosario")
+st.title("Alerta temprana de crecidas del río Paraná en Rosario")
 st.caption("Árbol de clasificación entrenado con alturas del río 1980–2026 · Datos: Instituto Nacional del Agua (INA)")
 
 with st.sidebar:
